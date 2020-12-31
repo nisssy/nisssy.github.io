@@ -1,0 +1,28 @@
+<svg id="コンポーネント_1_1" data-name="コンポーネント 1 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="993" height="1000" viewBox="0 0 993 1000">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="長方形_2" data-name="長方形 2" width="399" height="585" transform="translate(-3 -1641)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="長方形_1" data-name="長方形 1" width="267" height="688" transform="translate(244 -1746)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="楕円形_1" data-name="楕円形 1" transform="translate(0 100)" fill="#fff" stroke="#707070" stroke-width="50">
+    <circle cx="400" cy="400" r="400" stroke="none"/>
+    <circle cx="400" cy="400" r="375" fill="none"/>
+  </g>
+  <text id="K" transform="translate(286)" fill="#707070" font-size="1000" font-family="HiraKakuProN-W3, Hiragino Kaku Gothic ProN"><tspan x="0" y="880">K</tspan></text>
+  <g id="マスクグループ_2" data-name="マスクグループ 2" transform="translate(49 1849)" clip-path="url(#clip-path)">
+    <g id="マスクグループ_1" data-name="マスクグループ 1" transform="translate(-173 105)" clip-path="url(#clip-path-2)">
+      <text id="N" transform="translate(183 -1802)" fill="#707070" font-size="800" font-family="HiraKakuProN-W3, Hiragino Kaku Gothic ProN"><tspan x="0" y="704">N</tspan></text>
+    </g>
+  </g>
+  <g id="長方形_3" data-name="長方形 3" transform="matrix(0.883, -0.469, 0.469, 0.883, 127.088, 219.179)" fill="#707070" stroke="#707070" stroke-width="1">
+    <rect width="57" height="82" stroke="none"/>
+    <rect x="0.5" y="0.5" width="56" height="81" fill="none"/>
+  </g>
+  <g id="長方形_4" data-name="長方形 4" transform="matrix(0.883, -0.469, 0.469, 0.883, 192.406, 220.365)" fill="#fff" stroke="#fdf8f8" stroke-width="1">
+    <rect width="14" height="54" stroke="none"/>
+    <rect x="0.5" y="0.5" width="13" height="53" fill="none"/>
+  </g>
+</svg>
